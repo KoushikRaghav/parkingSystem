@@ -15,8 +15,11 @@ Build a real time parking system to maintain different types of vehicles, park a
      example : while creating level user can give 
         
       Car - 20 nos
+      
       Bus - 50 nos
+      
       Van - 10 nos
+      
       (Here vehicle type Bike is restricted) 
 
 

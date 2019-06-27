@@ -12,7 +12,7 @@ Build a real time parking system to maintain different types of vehicles, park a
 
 3. Parking Head can restrict any type of vehicle while creating level.
 
-     example : while creating level user can give 
+     example : while creating level parking head can give 
         
       Car - 20 nos
       
